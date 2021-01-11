@@ -1,0 +1,352 @@
+0000.000 (0) Opened log file at time: Mon, 11 Jan 2021 15:15:19 +0000 on http://localhost/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.46 WP: 5.6 PHP: 7.4.9 (apache2handler, Windows NT MININT-SIM5U4R 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: fr_FR Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 33.1M | 4M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 178734.5 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.010 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.015 (0) Set semaphore last lock (fd) time to 2021-01-11 15:15:19
+0000.016 (0) Semaphore lock (fd) complete
+0000.020 (0) Backup run: resumption=0, nonce=3c687037377b, file_nonce=3c687037377b begun at=1610378119 (0s ago), job type=backup
+0000.022 (0) Scheduling a resumption (1) after 300 seconds (1610378419) in case this run gets aborted
+0000.033 (0) Checking if we have a zip executable available
+0000.034 (0) Creation of backups of directories: beginning
+0000.040 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.584 (0) Total entities for the zip file: 240 directories, 1475 files (0 skipped as non-modified), 28.1 MB
+0000.632 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.676 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.719 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.763 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.810 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.857 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.913 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.959 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.969 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1475 files batched, 817 (817) added so far); re-opening (prior size: 0 KB)
+0003.255 (0) A useful amount of data was added after this amount of zip processing: 4.2 s (normalised: 4.2 s, rate: 6105.2 KB/s)
+0003.257 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.1934149265289, normalised_time=4.1931756309226, max_time=3.2554421424866, data points known=1, old_max_bytes=26214400, new_max_bytes=37510091)
+0003.322 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 900 files added (on-disk size: 7849.8 KB)
+0003.357 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 1000 files added (on-disk size: 7849.8 KB)
+0003.389 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 1100 files added (on-disk size: 7849.8 KB)
+0003.421 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 1200 files added (on-disk size: 7849.8 KB)
+0003.451 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 1300 files added (on-disk size: 7849.8 KB)
+0003.482 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip.tmp: 1400 files added (on-disk size: 7849.8 KB)
+0003.970 (0) Created plugins zip (0) - 8945 KB in 3.9 s (2279.1 KB/s) (sha1: 8d2f7235df91d019058d61f20df428f63733ad7e, sha256: 7d2d5a140ffd835d70ee0b20a02dce85a5607da0fa732caacba8b33a1c78787f)
+0003.974 (0) Beginning creation of dump of themes (split every: 400 MB)
+0004.460 (0) Total entities for the zip file: 213 directories, 962 files (0 skipped as non-modified), 27 MB
+0004.492 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0004.524 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0004.585 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0004.620 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0004.658 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0004.692 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0004.726 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0004.758 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0004.795 (0) Zip: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0006.414 (0) Created themes zip (0) - 10327.8 KB in 2.4 s (4239.2 KB/s) (sha1: 122a56039c0ab76d7b2ce86c0636fb1bf6286568, sha256: 2b97779ede3944fb84e92e30c899895e5d84b45807b05bf82bb9489b4ed7271f)
+0006.419 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0006.420 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0006.422 (0) finding files: 2021: adding to list (1)
+0006.424 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0006.437 (0) Total entities for the zip file: 2 directories, 30 files (0 skipped as non-modified), 0.8 MB
+0006.472 (0) Created uploads zip (0) - 782.3 KB in 0 s (17685.5 KB/s) (sha1: 1c92e008eefc1cb653773b60b9705afb5b452882, sha256: 589f672a27296566617c63ded0c93186ac9c328427f7fcdb5463a5989253c5ef)
+0006.477 (0) Beginning backup of other directories found in the content directory (index: 0)
+0006.478 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0006.480 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0006.481 (0) finding files: index.php: adding to list (1)
+0006.483 (0) finding files: languages: adding to list (2)
+0006.484 (0) finding files: plugins: skipping: this is the plugins directory
+0006.485 (0) finding files: themes: skipping: this is the themes directory
+0006.486 (0) finding files: updraft: skipping: this is the updraft directory
+0006.487 (0) finding files: upgrade: skipping: excluded by options
+0006.488 (0) finding files: uploads: skipping: this is the uploads directory
+0006.511 (0) Total entities for the zip file: 3 directories, 78 files (0 skipped as non-modified), 3.3 MB
+0006.856 (0) Created others zip (0) - 964.7 KB in 0.4 s (2645.6 KB/s) (sha1: eff266dce2d457ca79b756b32e3808245fa78768, sha256: 2a1859e4c8b10897278c937c69372d1daaa5279255728e68b8aecbbc6ab34981)
+0006.872 (0) Saving backup status to database (elements: 8)
+0006.877 (0) Beginning creation of database dump (WordPress DB)
+0006.879 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0006.900 (0) Table wp_options: Total expected rows (approximate): 215
+0006.955 (0) Table wp_options: Rows added in this batch (next record: 283): 215 (uncompressed bytes in this segment=685451) in 0.05 seconds
+0006.968 (0) Table wp_options: finishing file(s) (2, 146.2 KB)
+0006.970 (0) Table wp_users: Total expected rows (approximate): 1
+0006.982 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1355) in 0.01 seconds
+0006.989 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0006.992 (0) Table wp_usermeta: Total expected rows (approximate): 22
+0007.001 (0) Table wp_usermeta: Rows added in this batch (next record: 22): 22 (uncompressed bytes in this segment=2010) in 0.01 seconds
+0007.008 (0) Table wp_usermeta: finishing file(s) (2, 1.1 KB)
+0007.011 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0007.020 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.01 seconds
+0007.028 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0007.032 (0) Table wp_comments: Total expected rows (approximate): 1
+0007.045 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2178) in 0.01 seconds
+0007.053 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0007.056 (0) Table wp_links: Total expected rows (approximate): 0
+0007.069 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.01 seconds
+0007.077 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0007.082 (0) Table wp_postmeta: Total expected rows (approximate): 214
+0007.099 (0) Table wp_postmeta: Rows added in this batch (next record: 223): 214 (uncompressed bytes in this segment=17816) in 0.02 seconds
+0007.111 (0) Table wp_postmeta: finishing file(s) (2, 2.9 KB)
+0007.115 (0) Table wp_posts: Total expected rows (approximate): 74
+0007.133 (0) Table wp_posts: Rows added in this batch (next record: 74): 74 (uncompressed bytes in this segment=184708) in 0.02 seconds
+0007.146 (0) Table wp_posts: finishing file(s) (2, 13.6 KB)
+0007.150 (0) Table wp_term_relationships: Total expected rows (approximate): 14
+0007.164 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 14 (uncompressed bytes in this segment=862) in 0.01 seconds
+0007.171 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0007.174 (0) Table wp_term_taxonomy: Total expected rows (approximate): 4
+0007.188 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1001) in 0.01 seconds
+0007.196 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0007.199 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0007.209 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.01 seconds
+0007.219 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0007.223 (0) Table wp_terms: Total expected rows (approximate): 4
+0007.234 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=877) in 0.01 seconds
+0007.242 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0007.244 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_options.table.tmpr284.gz (1/12): adding to final database dump
+0007.269 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_options.table.gz (2/12): adding to final database dump
+0007.271 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_users.table.tmpr2.gz (3/12): adding to final database dump
+0007.272 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_users.table.gz (4/12): adding to final database dump
+0007.274 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_usermeta.table.tmpr23.gz (5/12): adding to final database dump
+0007.275 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_usermeta.table.gz (6/12): adding to final database dump
+0007.277 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_commentmeta.table.tmpr0.gz (7/12): adding to final database dump
+0007.278 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_commentmeta.table.gz (8/12): adding to final database dump
+0007.280 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_comments.table.tmpr2.gz (9/12): adding to final database dump
+0007.282 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_comments.table.gz (10/12): adding to final database dump
+0007.284 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_links.table.tmpr0.gz (11/12): adding to final database dump
+0007.286 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_links.table.gz (12/12): adding to final database dump
+0007.287 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_postmeta.table.tmpr224.gz (13/12): adding to final database dump
+0007.289 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_postmeta.table.gz (14/12): adding to final database dump
+0007.291 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_posts.table.tmpr75.gz (15/12): adding to final database dump
+0007.296 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_posts.table.gz (16/12): adding to final database dump
+0007.298 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_term_relationships.table.tmpr100001.gz (17/12): adding to final database dump
+0007.299 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_term_relationships.table.gz (18/12): adding to final database dump
+0007.301 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_term_taxonomy.table.tmpr5.gz (19/12): adding to final database dump
+0007.302 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_term_taxonomy.table.gz (20/12): adding to final database dump
+0007.304 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_termmeta.table.tmpr0.gz (21/12): adding to final database dump
+0007.306 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_termmeta.table.gz (22/12): adding to final database dump
+0007.307 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_terms.table.tmpr5.gz (23/12): adding to final database dump
+0007.309 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db-table-wp_terms.table.gz (24/12): adding to final database dump
+0007.330 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz: finished writing out complete database file (152 KB)
+0007.348 (0) Total database tables backed up: 12 (backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz, size: 168838, sha1: 803be82512f1e873d893305fad96bcfc111125db, sha256: 011308d848a9d72ab790ab5556bf2e41b6742edccf7abca09be21c055406aeb2)
+0007.358 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0007.360 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0007.362 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0007.364 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0007.365 (0) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0007.367 (0) Saving backup history. Total backup size: 20.7 MB
+0007.371 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0007.376 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0007.379 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5b2d05f745bb5ff9733ff9f221a7d329)
+0008.089 (0) Google Drive: creating path: /UpdraftPlus
+0009.214 (0) Google Drive: quota usage: used=59.7 MB, total=30720 MB, available=30660.3 MB
+0009.217 (0) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0069.564 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0069.566 (0) An error condition has occurred for the first time during this job
+0069.821 (0) Google Drive: quota usage: used=59.7 MB, total=30720 MB, available=30660.3 MB
+0069.822 (0) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0070.404 (0) Googledrive chunked upload: 9.9 % uploaded (1048576)
+0070.642 (0) Googledrive chunked upload: 19.8 % uploaded (2097152)
+0070.869 (0) Googledrive chunked upload: 29.7 % uploaded (3145728)
+0071.146 (0) Googledrive chunked upload: 39.7 % uploaded (4194304)
+0071.375 (0) Googledrive chunked upload: 49.6 % uploaded (5242880)
+0071.632 (0) Googledrive chunked upload: 59.5 % uploaded (6291456)
+0131.643 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0132.011 (0) Google Drive: quota usage: used=59.7 MB, total=30720 MB, available=30660.3 MB
+0132.012 (0) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0133.630 (0) Googledrive chunked upload: 100 % uploaded
+0133.637 (0) Google Drive: OK: Archive backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-uploads.zip uploaded in 1.62 seconds
+0133.639 (0) Recording as successfully uploaded: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-uploads.zip
+0133.644 (0) Deleting local file: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-uploads.zip: OK
+0133.920 (0) Google Drive: quota usage: used=60.5 MB, total=30720 MB, available=30659.5 MB
+0133.921 (0) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-others.zip: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0135.415 (0) Googledrive chunked upload: 100 % uploaded
+0135.422 (0) Google Drive: OK: Archive backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-others.zip uploaded in 1.5 seconds
+0135.424 (0) Recording as successfully uploaded: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-others.zip
+0135.430 (0) Deleting local file: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-others.zip: OK
+0135.812 (0) Google Drive: quota usage: used=61.4 MB, total=30720 MB, available=30658.6 MB
+0135.813 (0) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0137.398 (0) Googledrive chunked upload: 100 % uploaded
+0137.404 (0) Google Drive: OK: Archive backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz uploaded in 1.59 seconds
+0137.405 (0) Recording as successfully uploaded: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz
+0137.409 (0) Deleting local file: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz: OK
+0137.413 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0137.414 (0) Number of backup sets in history: 3; groups (db): 1
+0137.416 (0) Examining (for databases) backup set with group_id=0, nonce=3c687037377b, datestamp=1610378119 (Jan 11 2021 15:15:19)
+0137.417 (0) This backup set is the backup set just made, so will not be deleted.
+0137.417 (0) Examining (for databases) backup set with group_id=0, nonce=c0d14241fc4c, datestamp=1610378034 (Jan 11 2021 15:13:54)
+0137.417 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0137.418 (0) Examining (for databases) backup set with group_id=0, nonce=f1b65459e5d6, datestamp=1610377927 (Jan 11 2021 15:12:07)
+0137.418 (0) 1610377927: db: this set includes a database (backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-db.gz); db count is now 2
+0137.418 (0) 1610377927: db: over retain limit (2); will delete this database
+0137.418 (0) Delete file: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-db.gz, service=googledrive
+0137.419 (0) Deleting local copy (backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-db.gz)
+0138.190 (0) Google Drive: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-db.gz: Deletion failed: file was not found
+0138.203 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0138.207 (0) Number of backup sets in history: 3; groups (files): 1
+0138.212 (0) Examining (for files) backup set with nonce=3c687037377b, datestamp=1610378119 (Jan 11 2021 15:15:19)
+0138.212 (0) This backup set is the backup set just made, so will not be deleted.
+0138.217 (0) This backup set is the backup set just made, so will not be deleted.
+0138.217 (0) This backup set is the backup set just made, so will not be deleted.
+0138.217 (0) This backup set is the backup set just made, so will not be deleted.
+0138.217 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0138.221 (0) Examining (for files) backup set with nonce=c0d14241fc4c, datestamp=1610378034 (Jan 11 2021 15:13:54)
+0138.221 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0138.222 (0) Examining (for files) backup set with nonce=f1b65459e5d6, datestamp=1610377927 (Jan 11 2021 15:12:07)
+0138.222 (0) plugins: over retain limit (2); will delete this file entity
+0138.222 (0) themes: over retain limit (2); will delete this file entity
+0138.222 (0) uploads: over retain limit (2); will delete this file entity
+0138.222 (0) others: over retain limit (2); will delete this file entity
+0138.222 (0) Delete file: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-plugins.zip, service=googledrive
+0138.227 (0) Deleting local copy (backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-plugins.zip)
+0138.233 (0) Delete file: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-themes.zip, service=googledrive
+0138.238 (0) Deleting local copy (backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-themes.zip)
+0138.244 (0) Delete file: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-uploads.zip, service=googledrive
+0138.249 (0) Deleting local copy (backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-uploads.zip)
+0138.254 (0) Delete file: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-others.zip, service=googledrive
+0138.257 (0) Deleting local copy (backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-others.zip)
+0138.640 (0) Google Drive: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-plugins.zip: Deletion failed: file was not found
+0138.642 (0) Google Drive: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-themes.zip: Deletion failed: file was not found
+0138.644 (0) Google Drive: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-uploads.zip: Deletion failed: file was not found
+0138.645 (0) Google Drive: backup_2021-01-11-1612_Portfolio_Amine_Chaair_f1b65459e5d6-others.zip: Deletion failed: file was not found
+0138.649 (0) This backup set is now empty; will remove from history
+0138.652 (0) Deleting log file (log.f1b65459e5d6.txt)
+0138.654 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0138.660 (0) Resume backup (3c687037377b, 0): finish run
+0138.666 (0) Decremented the semaphore (fd) by 1
+0138.669 (0) Semaphore (fd) unlocked
+0138.671 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0138.676 (0) Rescheduling resumption 1: moving to 60 seconds from now (1610378318)
+0138.679 (0) No email will/can be sent - the user has not configured an email address.
+0138.680 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0198.708 (1) Opened log file at time: Mon, 11 Jan 2021 15:18:38 +0000 on http://localhost/wordpress
+0198.709 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.46 WP: 5.6 PHP: 7.4.9 (apache2handler, Windows NT MININT-SIM5U4R 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: fr_FR Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 25.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0198.710 (1) Free space on disk containing Updraft's temporary directory: 178729.8 MB
+0198.712 (1) Backup run: resumption=1, nonce=3c687037377b, file_nonce=3c687037377b begun at=1610378119 (199s ago), job type=backup, previous check-in=138.6s
+0198.714 (1) Scheduling a resumption (2) after 300 seconds (1610378618) in case this run gets aborted
+0198.723 (1) Checking if we have a zip executable available
+0198.724 (1) Creation of backups of directories: already finished
+0198.726 (1) Saving backup status to database (elements: 8)
+0198.732 (1) Database dump (WordPress DB): Creation was completed already
+0198.733 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0198.736 (1) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0198.737 (1) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0198.738 (1) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-uploads.zip: uploads: This file has already been successfully uploaded
+0198.740 (1) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-others.zip: others: This file has already been successfully uploaded
+0198.741 (1) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz: db: This file has already been successfully uploaded
+0198.743 (1) Saving backup history. Total backup size: Unknown
+0198.746 (1) Requesting upload of the files that have not yet been successfully uploaded (2)
+0198.750 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0198.751 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5b2d05f745bb5ff9733ff9f221a7d329)
+0199.812 (1) Google Drive: quota usage: used=61.6 MB, total=30720 MB, available=30658.4 MB
+0199.813 (1) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0200.397 (1) Googledrive chunked upload: 11.4 % uploaded (1048576)
+0200.704 (1) Googledrive chunked upload: 22.9 % uploaded (2097152)
+0200.973 (1) Googledrive chunked upload: 34.3 % uploaded (3145728)
+0201.231 (1) Googledrive chunked upload: 45.8 % uploaded (4194304)
+0201.493 (1) Googledrive chunked upload: 57.2 % uploaded (5242880)
+0201.740 (1) Googledrive chunked upload: 68.7 % uploaded (6291456)
+0202.004 (1) Googledrive chunked upload: 80.1 % uploaded (7340032)
+0202.280 (1) Googledrive chunked upload: 91.6 % uploaded (8388608)
+0203.496 (1) Googledrive chunked upload: 100 % uploaded (8388608)
+0203.499 (1) Google Drive: OK: Archive backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip uploaded in 3.68 seconds
+0203.501 (1) Recording as successfully uploaded: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip
+0203.504 (1) Deleting local file: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip: OK
+0203.834 (1) Google Drive: quota usage: used=70.3 MB, total=30720 MB, available=30649.7 MB
+0203.836 (1) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0203.921 (1) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: upload already began; attempting to resume from byte 7077887
+0263.925 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0263.927 (1) An error condition has occurred for the first time during this job
+0263.929 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0263.930 (1) Number of backup sets in history: 3; groups (db): 1
+0263.931 (1) Examining (for databases) backup set with group_id=0, nonce=d3c98f5f931d, datestamp=1610378320 (Jan 11 2021 15:18:40)
+0263.932 (1) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0263.932 (1) Examining (for databases) backup set with group_id=0, nonce=3c687037377b, datestamp=1610378119 (Jan 11 2021 15:15:19)
+0263.932 (1) This backup set is the backup set just made, so will not be deleted.
+0263.932 (1) Examining (for databases) backup set with group_id=0, nonce=c0d14241fc4c, datestamp=1610378034 (Jan 11 2021 15:13:54)
+0263.932 (1) 1610378034: db: this set includes a database (backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-db.gz); db count is now 2
+0263.932 (1) 1610378034: db: over retain limit (2); will delete this database
+0263.932 (1) Delete file: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-db.gz, service=googledrive
+0263.934 (1) Deleting local copy (backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-db.gz)
+0264.530 (1) Google Drive: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-db.gz: Deletion failed: file was not found
+0264.533 (1) This backup set remains non-empty (f=1/d=0); will retain in history
+0264.534 (1) Number of backup sets in history: 3; groups (files): 1
+0264.536 (1) Examining (for files) backup set with nonce=d3c98f5f931d, datestamp=1610378320 (Jan 11 2021 15:18:40)
+0264.536 (1) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0264.536 (1) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0264.536 (1) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0264.536 (1) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0264.536 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.537 (1) Examining (for files) backup set with nonce=3c687037377b, datestamp=1610378119 (Jan 11 2021 15:15:19)
+0264.537 (1) This backup set is the backup set just made, so will not be deleted.
+0264.539 (1) This backup set is the backup set just made, so will not be deleted.
+0264.539 (1) This backup set is the backup set just made, so will not be deleted.
+0264.539 (1) This backup set is the backup set just made, so will not be deleted.
+0264.539 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.541 (1) Examining (for files) backup set with nonce=c0d14241fc4c, datestamp=1610378034 (Jan 11 2021 15:13:54)
+0264.541 (1) plugins: over retain limit (2); will delete this file entity
+0264.541 (1) themes: over retain limit (2); will delete this file entity
+0264.541 (1) uploads: over retain limit (2); will delete this file entity
+0264.541 (1) others: over retain limit (2); will delete this file entity
+0264.541 (1) Delete file: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-plugins.zip, service=googledrive
+0264.543 (1) Deleting local copy (backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-plugins.zip)
+0264.545 (1) Delete file: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-themes.zip, service=googledrive
+0264.546 (1) Deleting local copy (backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-themes.zip)
+0264.549 (1) Delete file: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-uploads.zip, service=googledrive
+0264.551 (1) Deleting local copy (backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-uploads.zip)
+0264.553 (1) Delete file: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-others.zip, service=googledrive
+0264.554 (1) Deleting local copy (backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-others.zip)
+0264.876 (1) Google Drive: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-plugins.zip: Deletion failed: file was not found
+0264.877 (1) Google Drive: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-themes.zip: Deletion failed: file was not found
+0264.878 (1) Google Drive: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-uploads.zip: Deletion failed: file was not found
+0264.879 (1) Google Drive: backup_2021-01-11-1613_Portfolio_Amine_Chaair_c0d14241fc4c-others.zip: Deletion failed: file was not found
+0264.882 (1) This backup set is now empty; will remove from history
+0264.883 (1) Deleting log file (log.c0d14241fc4c.txt)
+0264.884 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0264.888 (1) Resume backup (3c687037377b, 1): finish run
+0264.890 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0264.892 (1) No email will/can be sent - the user has not configured an email address.
+0264.892 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0607.181 (2) Opened log file at time: Mon, 11 Jan 2021 15:25:27 +0000 on http://localhost/wordpress
+0607.182 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.46 WP: 5.6 PHP: 7.4.9 (apache2handler, Windows NT MININT-SIM5U4R 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: fr_FR Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 25.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0607.183 (2) Free space on disk containing Updraft's temporary directory: 178769.2 MB
+0607.186 (2) Backup run: resumption=2, nonce=3c687037377b, file_nonce=3c687037377b begun at=1610378119 (608s ago), job type=backup, previous check-in=66.2s
+0607.188 (2) Scheduling a resumption (3) after 300 seconds (1610379027) in case this run gets aborted
+0607.198 (2) Checking if we have a zip executable available
+0607.200 (2) Creation of backups of directories: already finished
+0607.202 (2) Saving backup status to database (elements: 8)
+0607.208 (2) Database dump (WordPress DB): Creation was completed already
+0607.210 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0607.213 (2) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-plugins.zip: plugins: This file has already been successfully uploaded
+0607.215 (2) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0607.216 (2) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-uploads.zip: uploads: This file has already been successfully uploaded
+0607.218 (2) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-others.zip: others: This file has already been successfully uploaded
+0607.219 (2) backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-db.gz: db: This file has already been successfully uploaded
+0607.220 (2) Saving backup history. Total backup size: Unknown
+0607.223 (2) Requesting upload of the files that have not yet been successfully uploaded (1)
+0607.226 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0607.228 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5b2d05f745bb5ff9733ff9f221a7d329)
+0608.111 (2) Google Drive: quota usage: used=80.9 MB, total=30720 MB, available=30639.1 MB
+0608.112 (2) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: Attempting to upload to Google Drive (into folder id: 1moD7QqZYBZPPeuwyIg5nmY0GdmKUONor)
+0608.179 (2) Google Drive: backup_2021-01-11-1615_Portfolio_Amine_Chaair_3c687037377b-themes.zip: upload already began; attempting to resume from byte 7864319
+0668.186 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0668.187 (2) An error condition has occurred for the first time during this job
+0668.190 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0668.194 (2) Number of backup sets in history: 2; groups (db): 1
+0668.195 (2) Examining (for databases) backup set with group_id=0, nonce=d3c98f5f931d, datestamp=1610378320 (Jan 11 2021 15:18:40)
+0668.197 (2) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0668.197 (2) Examining (for databases) backup set with group_id=0, nonce=3c687037377b, datestamp=1610378119 (Jan 11 2021 15:15:19)
+0668.197 (2) This backup set is the backup set just made, so will not be deleted.
+0668.197 (2) Number of backup sets in history: 2; groups (files): 1
+0668.198 (2) Examining (for files) backup set with nonce=d3c98f5f931d, datestamp=1610378320 (Jan 11 2021 15:18:40)
+0668.198 (2) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0668.198 (2) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0668.198 (2) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0668.198 (2) This backup set (1610378320) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0668.198 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0668.200 (2) Examining (for files) backup set with nonce=3c687037377b, datestamp=1610378119 (Jan 11 2021 15:15:19)
+0668.200 (2) This backup set is the backup set just made, so will not be deleted.
+0668.201 (2) This backup set is the backup set just made, so will not be deleted.
+0668.202 (2) This backup set is the backup set just made, so will not be deleted.
+0668.202 (2) This backup set is the backup set just made, so will not be deleted.
+0668.202 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0668.203 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0668.206 (2) Resume backup (3c687037377b, 2): finish run
+0668.210 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0668.214 (2) No email will/can be sent - the user has not configured an email address.
+0668.215 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
